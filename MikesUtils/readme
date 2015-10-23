@@ -1,0 +1,6 @@
+自己整理的Android开发工具类
+java 1.7 
+1.抽象BaseAdapter，子类不在需要写重复的代码
+2.eventBus  事件总线
+3.SwipeLayout 支持各种View滑动实现
+4.swipemenuList  仅支持ListView Item滑动菜单
